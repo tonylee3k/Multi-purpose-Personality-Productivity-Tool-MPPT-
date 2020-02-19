@@ -1,4 +1,9 @@
-# Application Name: Multipurpose Personal Productivity Tool (MPPT)
+# Multipurpose Personal Productivity Tool (MPPT)
+
+## Applicaiton built with Python with the following main libraries
+1. **PyQt5** - for the app's GUI interface
+2. **PyQtWebEngine** - for the app's built-in mini browser
+3. **sqlite3** - for the built-in database management system to manage inputs from different users
 
 ## Application Description
 The Multipurpose Personal Productivity Tool is an all-in-one mini-tools in a single computer
@@ -43,3 +48,20 @@ themselves. The font style and fonts are fixed so users may find it uninterestin
 the web while using the application without the need to open the actual Google Chrome itself.
 The only downside of this browser would be its dependencies on HTML5 which means it won’t
 load some types of video format available on the internet.
+
+### Other Features Included
+1. CRUD implementation with sqlite3 embedded database.
+2. Website-like appearances with local sign-up/login system.
+3. Concurrent usage of all different programs allowed by default. 
+4. Easy-access dashboard on the left pane to switch between programs.
+5. Beautiful Home page that shows current datetime.
+
+# Additional Features yet to be implemented
+1. A **Setting** page that allow user to  
+  -update/change his/her userID, userName and userPassword
+  -add, remove, change the wallpaper in login page and home page
+2. Advance-budget analyzer
+  -provide visual representation of current month's expenses using matplotlib
+  -provide extimated maximum expense left for current month
+
+
