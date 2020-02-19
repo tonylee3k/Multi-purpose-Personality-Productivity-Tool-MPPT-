@@ -58,10 +58,10 @@ load some types of video format available on the internet.
 
 # Additional Features yet to be implemented
 1. A **Setting** page that allow user to
-    *update/change his/her userID, userName and userPassword
-    *add, remove, change the wallpaper in login page and home page
+    1.update/change his/her userID, userName and userPassword
+    2.add, remove, change the wallpaper in login page and home page
 2. Advance-budget analyzer
-    -provide visual representation of current month's expenses using matplotlib
-    -provide extimated maximum expense left for current month
+    1.provide visual representation of current month's expenses using matplotlib
+    2.provide extimated maximum expense left for current month
 
 
