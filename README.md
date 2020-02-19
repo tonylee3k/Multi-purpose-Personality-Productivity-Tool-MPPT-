@@ -1,6 +1,6 @@
 # Multipurpose Personal Productivity Tool (MPPT)
 
-## Applicaiton built with Python with the following main libraries
+## Applicaiton built with Python using the following *main* libraries
 1. **PyQt5** - for the app's GUI interface
 2. **PyQtWebEngine** - for the app's built-in mini browser
 3. **sqlite3** - for the built-in database management system to manage inputs from different users
@@ -57,11 +57,11 @@ load some types of video format available on the internet.
 5. Beautiful Home page that shows current datetime.
 
 # Additional Features yet to be implemented
-1. A **Setting** page that allow user to  
-  -update/change his/her userID, userName and userPassword
-  -add, remove, change the wallpaper in login page and home page
+1. A **Setting** page that allow user to
+    *update/change his/her userID, userName and userPassword
+    *add, remove, change the wallpaper in login page and home page
 2. Advance-budget analyzer
-  -provide visual representation of current month's expenses using matplotlib
-  -provide extimated maximum expense left for current month
+    -provide visual representation of current month's expenses using matplotlib
+    -provide extimated maximum expense left for current month
 
 
