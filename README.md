@@ -1,4 +1,4 @@
-# Multipurpose Personal Productivity Tool (MPPT)
+# Multipurpose Personal Productivity Tool (MPPT) Tony
 
 ## Applicaiton built with Python using the following *main* libraries
 1. **PyQt5** - for the app's GUI interface
